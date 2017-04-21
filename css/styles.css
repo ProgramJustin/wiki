@@ -1,0 +1,18 @@
+.break {
+  height: 20px;
+  width: 125px;
+  margin-bottom: 5px;
+  color: black;
+  border-bottom: 1px solid black;
+
+}
+.leftimg  {
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+.rightimg{
+  float: right;
+  width: 200px;
+  height: 200px;
+}
